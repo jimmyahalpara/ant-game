@@ -12,4 +12,4 @@ Originally you dont have to do anything to control any entity just deplow then a
 if you cant run .exe file you can try both .pyc (compiled python files ) to run (if you have python installed)
 made by - jimmy kumar ahalpara
 contact - jahalpara5@gmail.com
-source - https://pygame.org/project/3594/5681
+source site - https://pygame.org/project/3594/5681
