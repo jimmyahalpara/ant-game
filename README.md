@@ -13,3 +13,4 @@ if you cant run .exe file you can try both .pyc (compiled python files ) to run 
 made by - jimmy kumar ahalpara
 contact - jahalpara5@gmail.com
 source site - https://pygame.org/project/3594/5681
+ for download go to https://drive.google.com/open?id=1GLyFehFzqokhKN9eaSLzmpE0WE8TmeqR
